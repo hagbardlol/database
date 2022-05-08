@@ -1,6 +1,6 @@
 return {    
     Ahri = {
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Akali = {
         "https://robur.site/Orietto/Public/raw/branch/master/OriAkali.lua"
@@ -87,7 +87,7 @@ return {
     },
     Irelia = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinIrelia.lua",   
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Janna = {
         "https://robur.site/gariban/GaribanSeries/raw/branch/master/GaribanJanna.lua"
@@ -190,7 +190,7 @@ return {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinPoppy.lua"
     },
     Pyke = {
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Qiyana = {
         "https://robur.site/Orietto/Public/raw/branch/master/OriQiyana.lua"
@@ -206,7 +206,7 @@ return {
     },
     Samira = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinSamira.lua",   
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Senna = {
         "https://robur.site/wxx/KappaRobur/raw/branch/master/KappaSenna.lua"
@@ -215,7 +215,7 @@ return {
         "https://github.com/Roburppey/BigSeries/raw/main/BigSeraphine.lua"
     },
     Sett = {
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Shaco = {
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAShaco.lua"
@@ -258,7 +258,7 @@ return {
         "https://github.com/Roburppey/BigSeries/raw/main/BigTwistedFate.lua"
     },
     Twitch = {
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Udyr = {
         "https://github.com/hagbardlol/Public/raw/main/UnrulyUdyr.lua"
@@ -304,7 +304,7 @@ return {
         "https://robur.site/Orietto/Public/raw/branch/master/OriYasuo.lua"
     },
     Yone = {
-        "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Zeri = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinZeri.lua"
