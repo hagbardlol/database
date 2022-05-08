@@ -68,7 +68,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Fiora = {
-        "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
     },
     Garen = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigGaren.lua"
@@ -77,7 +77,7 @@ return {
         "https://robur.site/Orietto/Public/raw/branch/master/OriGraves.lua"
     },
     Gwen = {
-        "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
     },
     Hecarim = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
@@ -109,7 +109,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKaiSa.lua"
     },
     Kalista = {
-        "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
     },
     Karthus = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKarthus.lua"
@@ -271,7 +271,7 @@ return {
     },
     Vayne = {
         "https://github.com/hagbardlol/Public/raw/main/UnrulyVayne.lua",   
-        "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
     },
     Veigar = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigVeigar.lua"
@@ -290,7 +290,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuVolibear.lua"
     },
     Xayah = {
-        "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua",   
+        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua",   
         "https://github.com/hagbardlol/Public/raw/main/UnrulyXayah.lua"
     },
     Xerath = {
