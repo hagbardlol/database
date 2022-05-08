@@ -22,7 +22,7 @@ return {
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAaphelios.lua"
     },
     Ashe = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyAshe.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyAshe.lua",   
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Azir = {
@@ -35,7 +35,7 @@ return {
     "https://github.com/Roburppey/BigSeries/raw/main/BigBrand.lua"
     },
     Caitlyn = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyCaitlyn.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyCaitlyn.lua",   
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NACait.lua"
     },
     Camille = {
@@ -52,7 +52,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Darius = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyDarius.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyDarius.lua"
     },
     DrMundo = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinDrMundo.lua"
@@ -64,7 +64,7 @@ return {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinEvelynn.lua"
     },
     Ezreal = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyEzreal.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyEzreal.lua",   
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Fiora = {
@@ -72,9 +72,6 @@ return {
     },
     Garen = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigGaren.lua"
-    },
-    Gragas = {
-        "https://robur.site/Rotatey/iSeries/raw/branch/main/iGragas.lua"
     },
     Graves = {
         "https://robur.site/Orietto/Public/raw/branch/master/OriGraves.lua"
@@ -105,7 +102,7 @@ return {
         "https://github.com/Roburppey/BigSeries/raw/main/BigJhin.lua"
     },
     Jinx = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyJinx.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyJinx.lua",   
         "https://github.com/Roburppey/BigSeries/raw/main/BigJinx.lua"
     },
     Kaisa = {
@@ -133,7 +130,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Kindred = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyKindred.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyKindred.lua"
     },
     Kled = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigKled.lua"
@@ -148,7 +145,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuLissandra.lua"
     },
     Leona = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyLeona.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyLeona.lua"
     },
     Lucian = {
         "https://github.com/FrOnDaL/Robur/raw/main/FrondalLucian.lua"
@@ -166,14 +163,14 @@ return {
         "https://github.com/Roburppey/BigSeries/raw/main/BigMalzahar.lua"
     },
     MissFortune = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyMF.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyMF.lua",   
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Mordekaiser = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigMordekaiser.lua"
     },
     Nami = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyNami.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyNami.lua",   
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuNami.lua"
     },
     Nautilus = {
@@ -227,7 +224,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuShyvana.lua"
     },
     Sion = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulySion.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulySion.lua"
     },
     Sivir = {
         "https://robur.site/Rotatey/iSeries/raw/branch/main/iSivir.lua"
@@ -248,7 +245,7 @@ return {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinSyndra.lua"
     },
     Talon = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyTalon.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyTalon.lua"
     },
     Thresh = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuThresh.lua"
@@ -264,16 +261,16 @@ return {
         "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
     },
     Udyr = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyUdyr.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyUdyr.lua"
     },
     Urgot = {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/UrgotMechanics.lua"
     },
     Varus = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyVarus.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyVarus.lua"
     },
     Vayne = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyVayne.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyVayne.lua",   
         "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua"
     },
     Veigar = {
@@ -294,10 +291,10 @@ return {
     },
     Xayah = {
         "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua",   
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyXayah.lua"
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyXayah.lua"
     },
     Xerath = {
-        "https://robur.site/Thorn/Public/raw/branch/master/UnrulyXerath.lua",   
+        "https://github.com/hagbardlol/Public/raw/main/UnrulyXerath.lua",   
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     XinZhao = {
