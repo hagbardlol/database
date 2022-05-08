@@ -57,9 +57,6 @@ return {
     DrMundo = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinDrMundo.lua"
     },
-    Draven = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/DravenMechanics.lua"
-    },
     Elise = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinElise.lua"
     },
@@ -132,9 +129,6 @@ return {
     Kayle = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
-    Kayn = {
-        "https://robur.site/Mistal/Public/raw/branch/master/MKayn.lua"
-    },
     Kennen = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
@@ -147,9 +141,6 @@ return {
     KogMaw = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKogMaw.lua"
     },
-    Leblanc = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/LeBlancMechanics.lua"
-    },
     LeeSin = {
         "https://robur.site/Orietto/Public/raw/branch/master/OriLeesin.lua"
     },
@@ -160,7 +151,7 @@ return {
         "https://robur.site/Thorn/Public/raw/branch/master/UnrulyLeona.lua"
     },
     Lucian = {
-        "https://robur.site/MadJoee/Public/raw/branch/main/MadAIO.lua"
+        "https://github.com/FrOnDaL/Robur/raw/main/FrondalLucian.lua"
     },
     Lulu = {
         "https://robur.site/gariban/GaribanLulu/raw/branch/master/GaribanLulu.lua"
@@ -173,9 +164,6 @@ return {
     },
     Malzahar = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigMalzahar.lua"
-    },
-    MasterYi = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/MasterYiMechanics.lua"
     },
     MissFortune = {
         "https://robur.site/Thorn/Public/raw/branch/master/UnrulyMF.lua",   
@@ -196,9 +184,6 @@ return {
     },
     Nocturne = {
         "https://robur.site/Rotatey/iSeries/raw/branch/main/iNocturne.lua"
-    },
-    Olaf = {
-        "https://robur.site/Mistal/Public/raw/branch/master/MOlaf.lua"
     },
     Orianna = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinOrianna.lua",   
@@ -265,9 +250,6 @@ return {
     Talon = {
         "https://robur.site/Thorn/Public/raw/branch/master/UnrulyTalon.lua"
     },
-    Teemo = {
-        "https://robur.site/Mistal/Public/raw/branch/master/MTeemo.lua"
-    },
     Thresh = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuThresh.lua"
     },
@@ -327,9 +309,6 @@ return {
     Yone = {
         "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
     },
-    Yorick = {
-        "https://robur.site/Mistal/Public/raw/branch/master/MYorick.lua"
-    },
     Zeri = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinZeri.lua"
     },
@@ -337,7 +316,7 @@ return {
         "https://robur.site/ChewyMoon/Scripts/raw/branch/master/Iggy%20Ziggy.lua"
     },
     Utilities = {
-        "https://robur.site/Thorn/Public/raw/branch/master/PerfectWard.lua",
+        "https://github.com/hagbardlol/Public/raw/main/PerfectWard.lua",
         "https://github.com/Feez/Robur-DreamEvade/raw/master/DreamEvade.lua"
     }
 }
