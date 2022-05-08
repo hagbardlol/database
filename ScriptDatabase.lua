@@ -9,7 +9,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Alistar = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinAlistar.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinAlistar.lua"
     },
     Amumu = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua",   
@@ -42,7 +42,7 @@ return {
         "https://robur.site/Rotatey/iSeries/raw/branch/main/iCamille.lua"
     },
     Cassiopeia = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinCassiopeia.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinCassiopeia.lua"
     },
     Chogath = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigCho.lua"
@@ -55,16 +55,16 @@ return {
         "https://robur.site/Thorn/Public/raw/branch/master/UnrulyDarius.lua"
     },
     DrMundo = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinDrMundo.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinDrMundo.lua"
     },
     Draven = {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/DravenMechanics.lua"
     },
     Elise = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinElise.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinElise.lua"
     },
     Evelynn = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinEvelynn.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinEvelynn.lua"
     },
     Ezreal = {
         "https://robur.site/Thorn/Public/raw/branch/master/UnrulyEzreal.lua",   
@@ -92,7 +92,7 @@ return {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/IllaoiMechanics.lua"
     },
     Irelia = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinIrelia.lua",   
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinIrelia.lua",   
         "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
     },
     Janna = {
@@ -102,7 +102,7 @@ return {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/JaxMechanics.lua"
     },
     Jayce = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinJayce.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinJayce.lua"
     },
     Jhin = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigJhin.lua"
@@ -201,11 +201,11 @@ return {
         "https://robur.site/Mistal/Public/raw/branch/master/MOlaf.lua"
     },
     Orianna = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinOrianna.lua",   
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinOrianna.lua",   
         "https://robur.site/Maresh/Ponche/raw/branch/master/output/PoncheOrianna.lua"
     },
     Poppy = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinPoppy.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinPoppy.lua"
     },
     Pyke = {
         "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
@@ -223,7 +223,7 @@ return {
         "https://robur.site/wxx/KappaRobur/raw/branch/master/KappaRyze.lua"
     },
     Samira = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinSamira.lua",   
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinSamira.lua",   
         "https://robur.site/xSalice/Public/raw/branch/master/SallyAIO.lua"
     },
     Senna = {
@@ -260,7 +260,7 @@ return {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/SylasMechanics.lua"
     },
     Syndra = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinSyndra.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinSyndra.lua"
     },
     Talon = {
         "https://robur.site/Thorn/Public/raw/branch/master/UnrulyTalon.lua"
@@ -331,7 +331,7 @@ return {
         "https://robur.site/Mistal/Public/raw/branch/master/MYorick.lua"
     },
     Zeri = {
-        "https://robur.site/shulepin/robur/raw/branch/master/ShulepinZeri.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinZeri.lua"
     },
     Ziggs = {
         "https://robur.site/ChewyMoon/Scripts/raw/branch/master/Iggy%20Ziggy.lua"
