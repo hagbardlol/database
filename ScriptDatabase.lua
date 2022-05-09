@@ -3,7 +3,7 @@ return {
         "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Akali = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriAkali.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriAkali.lua"
     },
     Akshan = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
@@ -26,7 +26,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Azir = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriAzir.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriAzir.lua"
     },
     Blitzcrank = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuBlitzcrank.lua"
@@ -74,7 +74,7 @@ return {
         "https://github.com/Roburppey/BigSeries/raw/main/BigGaren.lua"
     },
     Graves = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriGraves.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriGraves.lua"
     },
     Gwen = {
         "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
@@ -118,7 +118,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKassadin.lua"
     },
     Katarina = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriKatarina.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriKatarina.lua"
     },
     Karma = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
@@ -139,7 +139,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKogMaw.lua"
     },
     LeeSin = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriLeesin.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriLeesin.lua"
     },
     Lissandra = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuLissandra.lua"
@@ -193,7 +193,7 @@ return {
         "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Qiyana = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriQiyana.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriQiyana.lua"
     },
     Quinn = {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/QuinnMechanics.lua"
@@ -301,7 +301,7 @@ return {
         "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/XinZhaoMechanics.lua"
     },
     Yasuo = {
-        "https://robur.site/Orietto/Public/raw/branch/master/OriYasuo.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/OriYasuo.lua"
     },
     Yone = {
         "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
