@@ -79,7 +79,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Illaoi = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/IllaoiMechanics.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/IllaoiMechanics.lua"
     },
     Irelia = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinIrelia.lua",   
@@ -89,7 +89,7 @@ return {
         "https://robur.site/gariban/GaribanSeries/raw/branch/master/GaribanJanna.lua"
     },
     Jax = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/JaxMechanics.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/JaxMechanics.lua"
     },
     Jayce = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinJayce.lua"
@@ -188,7 +188,7 @@ return {
         "https://github.com/hagbardlol/nosupport/raw/main/OriQiyana.lua"
     },
     Quinn = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/QuinnMechanics.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/QuinnMechanics.lua"
     },
     Renata = {
         "https://robur.site/gariban/GaribanSeries/raw/branch/master/GaribanRenata.lua"
@@ -222,7 +222,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Sylas = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/SylasMechanics.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/SylasMechanics.lua"
     },
     Syndra = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinSyndra.lua"
@@ -234,8 +234,8 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuThresh.lua"
     },
     Tristana = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/TristanaMechanics.lua",   
-        "https://robur.site/hq.af/hq-scripts/raw/branch/master/PewPewTristana.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/TristanaMechanics.lua",   
+        "https://github.com/hagbardlol/nosupport/raw/main/PewPewTristana.lua"
     },
     TwistedFate = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigTwistedFate.lua"
@@ -247,7 +247,7 @@ return {
         "https://github.com/hagbardlol/Public/raw/main/UnrulyUdyr.lua"
     },
     Urgot = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/UrgotMechanics.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/UrgotMechanics.lua"
     },
     Varus = {
         "https://github.com/hagbardlol/Public/raw/main/UnrulyVarus.lua"
@@ -267,7 +267,7 @@ return {
     },
     Viktor = {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua",
-        "https://robur.site/hq.af/hq-scripts/raw/branch/master/hqViktor.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/hqViktor.lua"
     },
     Volibear = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuVolibear.lua"
@@ -281,7 +281,7 @@ return {
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     XinZhao = {
-        "https://robur.site/RonaldinhoSoccer/CoolStuff/raw/branch/master/XinZhaoMechanics.lua"
+        "https://github.com/hagbardlol/nosupport/raw/main/XinZhaoMechanics.lua"
     },
     Yasuo = {
         "https://github.com/hagbardlol/nosupport/raw/main/OriYasuo.lua"
