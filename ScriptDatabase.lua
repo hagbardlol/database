@@ -294,6 +294,7 @@ return {
     },
     Utilities = {
         "https://github.com/hagbardlol/Public/raw/main/PerfectWard.lua",
+        "https://github.com/Roburppey/BigSeries/raw/main/BackportSniper.lua",
         "https://github.com/Feez/Robur-DreamEvade/raw/master/DreamEvade.lua"
     }
 }
