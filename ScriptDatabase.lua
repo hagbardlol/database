@@ -176,8 +176,7 @@ return {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuNeeko.lua"
     },
     Orianna = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinOrianna.lua",   
-        "https://robur.site/Maresh/Ponche/raw/branch/master/output/PoncheOrianna.lua"
+        "https://github.com/shulepinlol/champions/raw/main/ShulepinOrianna.lua"  
     },
     Poppy = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinPoppy.lua"
@@ -292,9 +291,6 @@ return {
     },
     Zeri = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinZeri.lua"
-    },
-    Ziggs = {
-        "https://robur.site/ChewyMoon/Scripts/raw/branch/master/Iggy%20Ziggy.lua"
     },
     Utilities = {
         "https://github.com/hagbardlol/Public/raw/main/PerfectWard.lua",
