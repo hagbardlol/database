@@ -38,17 +38,13 @@ return {
         "https://github.com/hagbardlol/Public/raw/main/UnrulyCaitlyn.lua",   
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NACait.lua"
     },
-    Camille = {
-        "https://robur.site/Rotatey/iSeries/raw/branch/main/iCamille.lua"
-    },
     Cassiopeia = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinCassiopeia.lua"
     },
     Chogath = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigCho.lua"
     },
-    Corki = {
-        "https://robur.site/Rotatey/iSeries/raw/branch/main/iCorki.lua",   
+    Corki = { 
         "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
     },
     Darius = {
@@ -179,9 +175,6 @@ return {
     Neeko = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuNeeko.lua"
     },
-    Nocturne = {
-        "https://robur.site/Rotatey/iSeries/raw/branch/main/iNocturne.lua"
-    },
     Orianna = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinOrianna.lua",   
         "https://robur.site/Maresh/Ponche/raw/branch/master/output/PoncheOrianna.lua"
@@ -201,15 +194,9 @@ return {
     Renata = {
         "https://robur.site/gariban/GaribanSeries/raw/branch/master/GaribanRenata.lua"
     },
-    Ryze = {
-        "https://robur.site/wxx/KappaRobur/raw/branch/master/KappaRyze.lua"
-    },
     Samira = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinSamira.lua",   
         "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
-    },
-    Senna = {
-        "https://robur.site/wxx/KappaRobur/raw/branch/master/KappaSenna.lua"
     },
     Seraphine = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigSeraphine.lua"
@@ -225,9 +212,6 @@ return {
     },
     Sion = {
         "https://github.com/hagbardlol/Public/raw/main/UnrulySion.lua"
-    },
-    Sivir = {
-        "https://robur.site/Rotatey/iSeries/raw/branch/main/iSivir.lua"
     },
     Sona = {
         "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuSona.lua"
