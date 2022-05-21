@@ -86,7 +86,7 @@ return {
         "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
     },
     Janna = {
-        "https://robur.site/gariban/GaribanSeries/raw/branch/master/GaribanJanna.lua"
+        "https://github.com/garibanlol/oldscripts/raw/main/GaribanJanna.lua"
     },
     Jax = {
         "https://github.com/hagbardlol/nosupport/raw/main/JaxMechanics.lua"
@@ -191,7 +191,7 @@ return {
         "https://github.com/hagbardlol/nosupport/raw/main/QuinnMechanics.lua"
     },
     Renata = {
-        "https://robur.site/gariban/GaribanSeries/raw/branch/master/GaribanRenata.lua"
+        "https://github.com/garibanlol/oldscripts/raw/main/GaribanRenata.lua"
     },
     Samira = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinSamira.lua",   
