@@ -147,7 +147,7 @@ return {
         "https://github.com/FrOnDaL/Robur/raw/main/FrondalLucian.lua"
     },
     Lulu = {
-        "https://robur.site/gariban/GaribanLulu/raw/branch/master/GaribanLulu.lua"
+        "https://github.com/garibanlol/oldscripts/raw/main/GaribanLulu.lua"
     },
     Lux = {
         "https://github.com/Roburppey/BigSeries/raw/main/BigLux.lua"
