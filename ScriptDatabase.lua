@@ -292,6 +292,9 @@ return {
     Zeri = {
         "https://github.com/shulepinlol/champions/raw/main/ShulepinZeri.lua"
     },
+    Zilean = {
+        "https://github.com/garibanlol/oldscripts/raw/main/GaribanZilean.lua"
+    },
     Utilities = {
         "https://github.com/hagbardlol/Public/raw/main/PerfectWard.lua",
         "https://github.com/Roburppey/BigSeries/raw/main/BackportSniper.lua",
