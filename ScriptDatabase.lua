@@ -1,303 +1,303 @@
 return {    
     Ahri = {
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Akali = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriAkali.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAkali.lua"
     },
     Akshan = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Alistar = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinAlistar.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinAlistar.lua"
     },
     Amumu = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua",   
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuAmumu.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",   
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAmumu.lua"
     },
     Annie = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuAnnie.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAnnie.lua"
     },
     Aphelios = {
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAaphelios.lua"
     },
     Ashe = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyAshe.lua",   
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",   
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Azir = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriAzir.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAzir.lua"
     },
     Blitzcrank = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuBlitzcrank.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuBlitzcrank.lua"
     },
     Brand = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigBrand.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigBrand.lua"
     },
     Caitlyn = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyCaitlyn.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua",   
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NACait.lua"
     },
     Cassiopeia = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinCassiopeia.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinCassiopeia.lua"
     },
     Chogath = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigCho.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigCho.lua"
     },
     Corki = { 
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Darius = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyDarius.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDarius.lua"
     },
     DrMundo = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinDrMundo.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinDrMundo.lua"
     },
     Elise = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinElise.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinElise.lua"
     },
     Evelynn = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinEvelynn.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinEvelynn.lua"
     },
     Ezreal = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyEzreal.lua",   
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyEzreal.lua",   
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Fiora = {
-        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
     },
     Garen = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigGaren.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigGaren.lua"
     },
     Graves = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriGraves.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriGraves.lua"
     },
     Gwen = {
-        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
     },
     Hecarim = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Illaoi = {
-        "https://github.com/hagbardlol/nosupport/raw/main/IllaoiMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/IllaoiMechanics.lua"
     },
     Irelia = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinIrelia.lua",   
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinIrelia.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Janna = {
-        "https://github.com/garibanlol/oldscripts/raw/main/GaribanJanna.lua"
+        "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanJanna.lua"
     },
     Jax = {
-        "https://github.com/hagbardlol/nosupport/raw/main/JaxMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/JaxMechanics.lua"
     },
     Jayce = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinJayce.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinJayce.lua"
     },
     Jhin = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigJhin.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJhin.lua"
     },
     Jinx = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyJinx.lua",   
-        "https://github.com/Roburppey/BigSeries/raw/main/BigJinx.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyJinx.lua",   
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJinx.lua"
     },
     Kaisa = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKaiSa.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKaiSa.lua"
     },
     Kalista = {
-        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
     },
     Karthus = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKarthus.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKarthus.lua"
     },
     Kassadin = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKassadin.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKassadin.lua"
     },
     Katarina = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriKatarina.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriKatarina.lua"
     },
     Karma = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Kayle = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Kennen = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Kindred = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyKindred.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyKindred.lua"
     },
     Kled = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigKled.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigKled.lua"
     },
     KogMaw = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuKogMaw.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKogMaw.lua"
     },
     LeeSin = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriLeesin.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriLeesin.lua"
     },
     Lissandra = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuLissandra.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuLissandra.lua"
     },
     Leona = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyLeona.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyLeona.lua"
     },
     Lucian = {
-        "https://github.com/FrOnDaL/Robur/raw/main/FrondalLucian.lua"
+        "https://raw.githubusercontent.com/FrOnDaL/Robur/main/FrondalLucian.lua"
     },
     Lulu = {
-        "https://github.com/garibanlol/oldscripts/raw/main/GaribanLulu.lua"
+        "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanLulu.lua"
     },
     Lux = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigLux.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigLux.lua"
     },
     Malphite = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuMalphite.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuMalphite.lua"
     },
     Malzahar = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigMalzahar.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigMalzahar.lua"
     },
     MissFortune = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyMF.lua",   
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyMF.lua",   
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Mordekaiser = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigMordekaiser.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigMordekaiser.lua"
     },
     Nami = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyNami.lua",   
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuNami.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyNami.lua",   
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNami.lua"
     },
     Nautilus = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Neeko = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuNeeko.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNeeko.lua"
     },
     Orianna = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinOrianna.lua"  
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinOrianna.lua"  
     },
     Poppy = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinPoppy.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinPoppy.lua"
     },
     Pyke = {
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Qiyana = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriQiyana.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriQiyana.lua"
     },
     Quinn = {
-        "https://github.com/hagbardlol/nosupport/raw/main/QuinnMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/QuinnMechanics.lua"
     },
     Renata = {
-        "https://github.com/garibanlol/oldscripts/raw/main/GaribanRenata.lua"
+        "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanRenata.lua"
     },
     Samira = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinSamira.lua",   
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSamira.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Seraphine = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigSeraphine.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigSeraphine.lua"
     },
     Sett = {
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Shaco = {
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAShaco.lua"
     },
     Shyvana = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuShyvana.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuShyvana.lua"
     },
     Sion = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulySion.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulySion.lua"
     },
     Sona = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuSona.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuSona.lua"
     },
     Soraka = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuSoraka.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuSoraka.lua"
     },
     Swain = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Sylas = {
-        "https://github.com/hagbardlol/nosupport/raw/main/SylasMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SylasMechanics.lua"
     },
     Syndra = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinSyndra.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSyndra.lua"
     },
     Talon = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyTalon.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyTalon.lua"
     },
     Thresh = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuThresh.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuThresh.lua"
     },
     Tristana = {
-        "https://github.com/hagbardlol/nosupport/raw/main/TristanaMechanics.lua",   
-        "https://github.com/hagbardlol/nosupport/raw/main/PewPewTristana.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/TristanaMechanics.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/PewPewTristana.lua"
     },
     TwistedFate = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigTwistedFate.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigTwistedFate.lua"
     },
     Twitch = {
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Udyr = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyUdyr.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyUdyr.lua"
     },
     Urgot = {
-        "https://github.com/hagbardlol/nosupport/raw/main/UrgotMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/UrgotMechanics.lua"
     },
     Varus = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyVarus.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVarus.lua"
     },
     Vayne = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyVayne.lua",   
-        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVayne.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
     },
     Veigar = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigVeigar.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigVeigar.lua"
     },
     Velkoz = {
-        "https://github.com/Roburppey/BigSeries/raw/main/BigVelkoz.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigVelkoz.lua"
     },
     Vex = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Viktor = {
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua",
-        "https://github.com/hagbardlol/nosupport/raw/main/hqViktor.lua"
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/hqViktor.lua"
     },
     Volibear = {
-        "https://github.com/roburAURUM/robur-AuEdition/raw/main/AuVolibear.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuVolibear.lua"
     },
     Xayah = {
-        "https://github.com/hagbardlol/nosupport/raw/main/MadAIO.lua",   
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyXayah.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyXayah.lua"
     },
     Xerath = {
-        "https://github.com/hagbardlol/Public/raw/main/UnrulyXerath.lua",   
-        "https://github.com/samuelchow1997/robur-14AIO/raw/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyXerath.lua",   
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     XinZhao = {
-        "https://github.com/hagbardlol/nosupport/raw/main/XinZhaoMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/XinZhaoMechanics.lua"
     },
     Yasuo = {
-        "https://github.com/hagbardlol/nosupport/raw/main/OriYasuo.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriYasuo.lua"
     },
     Yone = {
-        "https://github.com/hagbardlol/nosupport/raw/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Zeri = {
-        "https://github.com/shulepinlol/champions/raw/main/ShulepinZeri.lua"
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinZeri.lua"
     },
     Zilean = {
-        "https://github.com/garibanlol/oldscripts/raw/main/GaribanZilean.lua"
+        "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanZilean.lua"
     },
     Utilities = {
-        "https://github.com/hagbardlol/Public/raw/main/PerfectWard.lua",
-        "https://github.com/Roburppey/BigSeries/raw/main/BackportSniper.lua",
-        "https://github.com/Feez/Robur-DreamEvade/raw/master/DreamEvade.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/PerfectWard.lua",
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BackportSniper.lua",
+        "https://raw.githubusercontent.com/Feez/Robur-DreamEvade/master/DreamEvade.lua"
     }
 }
