@@ -63,17 +63,11 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyEzreal.lua",   
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
-    Fiora = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
-    },
     Garen = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigGaren.lua"
     },
     Graves = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriGraves.lua"
-    },
-    Gwen = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
     },
     Hecarim = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
@@ -103,9 +97,6 @@ return {
     },
     Kaisa = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKaiSa.lua"
-    },
-    Kalista = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
     },
     Karthus = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKarthus.lua"
@@ -234,7 +225,7 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuThresh.lua"
     },
     Tristana = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/TristanaMechanics.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/TristanaMechanics.lua",
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/PewPewTristana.lua"
     },
     TwistedFate = {
@@ -253,8 +244,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVarus.lua"
     },
     Vayne = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVayne.lua",   
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVayne.lua"  
     },
     Veigar = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigVeigar.lua"
@@ -273,7 +263,6 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuVolibear.lua"
     },
     Xayah = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/MadAIO.lua",   
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyXayah.lua"
     },
     Xerath = {
