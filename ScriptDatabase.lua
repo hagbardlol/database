@@ -188,6 +188,9 @@ return {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSamira.lua",   
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
+    Senna = { 
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+    },
     Seraphine = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigSeraphine.lua"
     },
