@@ -1,6 +1,6 @@
 return {    
     Ahri = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAhri.lua"
     },
     Akali = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAkali.lua"
