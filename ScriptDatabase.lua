@@ -285,6 +285,9 @@ return {
     Yone = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
+    Zed = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+    },
     Zeri = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
