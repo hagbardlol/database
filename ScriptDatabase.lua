@@ -92,11 +92,15 @@ return {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJhin.lua"
     },
     Jinx = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyJinx.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyJinx.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua",
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJinx.lua"
     },
     Kaisa = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKaiSa.lua"
+    },
+    Kalista = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Karthus = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKarthus.lua"
@@ -282,7 +286,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Zeri = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinZeri.lua"
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Zilean = {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanZilean.lua"
