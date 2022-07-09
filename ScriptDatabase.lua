@@ -22,7 +22,8 @@ return {
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAaphelios.lua"
     },
     Ashe = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",   
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAshe.lua",
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Azir = {
