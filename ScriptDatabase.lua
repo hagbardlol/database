@@ -214,6 +214,9 @@ return {
     Sion = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulySion.lua"
     },
+    Sivir = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXSivir.lua"
+    },
     Sona = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuSona.lua"
     },
