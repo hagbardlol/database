@@ -118,6 +118,9 @@ return {
     Kayle = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
+    Kayn = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXKayn.lua"
+    },
     Kennen = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
@@ -284,7 +287,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriYasuo.lua"
     },
     Yone = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXYone.lua"
     },
     Zed = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
