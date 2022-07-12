@@ -64,6 +64,9 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyEzreal.lua",   
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
+    Fizz = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXFizz.lua"
+    },
     Garen = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigGaren.lua"
     },
