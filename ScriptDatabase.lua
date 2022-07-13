@@ -40,7 +40,7 @@ return {
         "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NACait.lua"
     },
     Cassiopeia = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinCassiopeia.lua"
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
     },
     Chogath = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigCho.lua"
@@ -177,6 +177,9 @@ return {
     Neeko = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNeeko.lua"
     },
+    Nilah = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+    },
     Orianna = {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinOrianna.lua"  
     },
@@ -248,7 +251,7 @@ return {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigTwistedFate.lua"
     },
     Twitch = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Udyr = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyUdyr.lua"
