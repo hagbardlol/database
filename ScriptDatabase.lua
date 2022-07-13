@@ -146,7 +146,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyLeona.lua"
     },
     Lucian = {
-        "https://raw.githubusercontent.com/FrOnDaL/Robur/main/FrondalLucian.lua"
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Lulu = {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanLulu.lua"
@@ -242,8 +242,7 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuThresh.lua"
     },
     Tristana = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/TristanaMechanics.lua",
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/PewPewTristana.lua"
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     TwistedFate = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigTwistedFate.lua"
