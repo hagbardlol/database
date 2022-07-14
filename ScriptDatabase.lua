@@ -178,7 +178,7 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNeeko.lua"
     },
     Nilah = {
-        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXNilah.lua"
     },
     Orianna = {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinOrianna.lua"  
