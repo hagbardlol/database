@@ -282,6 +282,7 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuVolibear.lua"
     },
     Xayah = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua",
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyXayah.lua"
     },
     Xerath = {
