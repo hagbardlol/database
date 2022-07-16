@@ -60,7 +60,6 @@ return {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinEvelynn.lua"
     },
     Ezreal = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyEzreal.lua",   
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Fizz = {
