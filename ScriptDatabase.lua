@@ -62,6 +62,9 @@ return {
     Ezreal = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
+    Fiora = {
+        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+    },
     Fizz = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXFizz.lua"
     },
