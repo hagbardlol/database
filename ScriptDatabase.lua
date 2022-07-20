@@ -97,7 +97,6 @@ return {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJhin.lua"
     },
     Jinx = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyJinx.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua",
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJinx.lua"
     },
