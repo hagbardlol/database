@@ -142,6 +142,9 @@ return {
     Lissandra = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuLissandra.lua"
     },
+    LeeSin = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+    },
     Leona = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyLeona.lua"
     },
