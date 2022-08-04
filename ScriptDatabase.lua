@@ -9,8 +9,9 @@ return {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Alistar = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinAlistar.lua"
-    },
+        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinAlistar.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+           },
     Amumu = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",   
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAmumu.lua"
@@ -29,7 +30,8 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAzir.lua"
     },
     Blitzcrank = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuBlitzcrank.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuBlitzcrank.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Brand = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigBrand.lua"
@@ -158,7 +160,8 @@ return {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigLux.lua"
     },
     Malphite = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuMalphite.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuMalphite.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Malzahar = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigMalzahar.lua"
@@ -172,6 +175,9 @@ return {
     },
     Nami = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNami.lua"
+    },
+    Nasus = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Nautilus = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
@@ -243,14 +249,21 @@ return {
     Talon = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyTalon.lua"
     },
+    Teemo = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Thresh = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuThresh.lua"
     },
     Tristana = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
+    Tryndamere = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     TwistedFate = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigTwistedFate.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigTwistedFate.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Twitch = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
