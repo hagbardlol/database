@@ -139,13 +139,10 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKogMaw.lua"
     },
     LeeSin = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriLeesin.lua"
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
     },
     Lissandra = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuLissandra.lua"
-    },
-    LeeSin = {
-        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
     },
     Leona = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyLeona.lua"
