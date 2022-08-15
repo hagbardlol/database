@@ -204,7 +204,6 @@ return {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanRenata.lua"
     },
     Samira = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSamira.lua",   
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Senna = { 
