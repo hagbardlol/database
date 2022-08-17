@@ -185,6 +185,9 @@ return {
     Nilah = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXNilah.lua"
     },
+    Olaf = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Orianna = {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinOrianna.lua"  
     },
@@ -314,8 +317,14 @@ return {
     Zeri = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
+    Ziggs = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Zilean = {
-        "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanZilean.lua"
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
+    Zyra = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Utilities = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/PerfectWard.lua",
