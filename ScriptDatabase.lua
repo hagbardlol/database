@@ -19,9 +19,6 @@ return {
     Annie = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAnnie.lua"
     },
-    Aphelios = {
-        "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAaphelios.lua"
-    },
     Ashe = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAshe.lua",
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
@@ -37,8 +34,7 @@ return {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigBrand.lua"
     },
     Caitlyn = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua",   
-        "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NACait.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua"
     },
     Cassiopeia = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
@@ -217,9 +213,6 @@ return {
     },
     Sett = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
-    },
-    Shaco = {
-        "https://raw.githubusercontent.com/NoxusNA/BitsAndPiecesEverywhere/main/NAShaco.lua"
     },
     Shyvana = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuShyvana.lua"
