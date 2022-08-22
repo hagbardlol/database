@@ -202,6 +202,9 @@ return {
     Renata = {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanRenata.lua"
     },
+    Rengar = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXRengar.lua"
+    },
     Samira = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
