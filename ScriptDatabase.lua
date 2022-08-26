@@ -108,7 +108,8 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKarthus.lua"
     },
     Kassadin = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKassadin.lua"
+        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKassadin.lua",
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXKassadin.lua"
     },
     Katarina = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriKatarina.lua"
@@ -241,6 +242,9 @@ return {
     Syndra = {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSyndra.lua"
     },
+    TahmKench = {
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXTahmKench.lua"
+    },
     Talon = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyTalon.lua"
     },
@@ -267,7 +271,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyUdyr.lua"
     },
     Urgot = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/UrgotMechanics.lua"
+        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXUrgot.lua"
     },
     Varus = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVarus.lua"
