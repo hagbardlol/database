@@ -32,7 +32,8 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Brand = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigBrand.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigBrand.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Caitlyn = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua"
@@ -136,6 +137,9 @@ return {
     KogMaw = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKogMaw.lua"
     },
+    LeBlanc = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     LeeSin = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
     },
@@ -152,7 +156,8 @@ return {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanLulu.lua"
     },
     Lux = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigLux.lua"
+        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigLux.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Malphite = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuMalphite.lua",
@@ -160,6 +165,12 @@ return {
     },
     Malzahar = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigMalzahar.lua"
+    },
+    Maokai = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
+    MasterYi = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     MissFortune = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyMF.lua",   
@@ -183,6 +194,9 @@ return {
     Nilah = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXNilah.lua"
     },
+    Nocturne = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Olaf = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
@@ -201,6 +215,9 @@ return {
     Quinn = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/QuinnMechanics.lua"
     },
+    Rammus = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Renata = {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanRenata.lua"
     },
@@ -218,6 +235,9 @@ return {
     },
     Sett = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+    },
+    Shaco = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Shyvana = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuShyvana.lua"
