@@ -266,6 +266,9 @@ return {
     TahmKench = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXTahmKench.lua"
     },
+    Taliyah = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Talon = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyTalon.lua"
     },
@@ -312,6 +315,9 @@ return {
     Viktor = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/hqViktor.lua"
+    },
+    Vladimir = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Volibear = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuVolibear.lua"
