@@ -50,6 +50,9 @@ return {
     Darius = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDarius.lua"
     },
+    Draven = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDraven.lua"
+    },
     DrMundo = {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinDrMundo.lua"
     },
