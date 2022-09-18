@@ -1,4 +1,7 @@
-return {    
+return {   
+    Aatrox = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    }, 
     Ahri = {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAhri.lua"
     },
@@ -15,6 +18,9 @@ return {
     Amumu = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",   
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAmumu.lua"
+    },
+    Anivia = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Annie = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAnnie.lua"
