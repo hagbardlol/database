@@ -30,6 +30,9 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
+    AurelionSol = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Azir = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAzir.lua"
     },
