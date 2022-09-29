@@ -313,7 +313,8 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVarus.lua"
     },
     Vayne = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVayne.lua"  
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVayne.lua",
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Veigar = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigVeigar.lua"
