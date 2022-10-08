@@ -149,7 +149,7 @@ return {
     KogMaw = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKogMaw.lua"
     },
-    LeBlanc = {
+    Leblanc = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     LeeSin = {
