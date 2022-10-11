@@ -48,7 +48,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua"
     },
     Cassiopeia = {
-        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Chogath = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigCho.lua"
@@ -153,7 +153,7 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     LeeSin = {
-        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Lissandra = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuLissandra.lua"
@@ -352,7 +352,7 @@ return {
         "https://raw.githubusercontent.com/Coozbie/RBR/main/CXYone.lua"
     },
     Zed = {
-        "https://raw.githubusercontent.com/Coozbie/RBR/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Zeri = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
