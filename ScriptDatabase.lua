@@ -92,8 +92,7 @@ return {
     Illaoi = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/IllaoiMechanics.lua"
     },
-    Irelia = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinIrelia.lua",   
+    Irelia = { 
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
     },
     Janna = {
