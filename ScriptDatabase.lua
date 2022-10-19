@@ -3,7 +3,7 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     }, 
     Ahri = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAhri.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Akali = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAkali.lua"
@@ -26,7 +26,7 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAnnie.lua"
     },
     Ashe = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAshe.lua",
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua",
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
@@ -78,7 +78,7 @@ return {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Fizz = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXFizz.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Garen = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigGaren.lua"
@@ -122,7 +122,7 @@ return {
     },
     Kassadin = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKassadin.lua",
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXKassadin.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Katarina = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriKatarina.lua"
@@ -134,7 +134,7 @@ return {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
     Kayn = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXKayn.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Kennen = {
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
@@ -203,7 +203,7 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNeeko.lua"
     },
     Nilah = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXNilah.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Nocturne = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -233,7 +233,7 @@ return {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanRenata.lua"
     },
     Rengar = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXRengar.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Samira = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -257,7 +257,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulySion.lua"
     },
     Sivir = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXSivir.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Sona = {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuSona.lua"
@@ -275,7 +275,7 @@ return {
         "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSyndra.lua"
     },
     TahmKench = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXTahmKench.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Taliyah = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -306,7 +306,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyUdyr.lua"
     },
     Urgot = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXUrgot.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Varus = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVarus.lua"
@@ -348,7 +348,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriYasuo.lua"
     },
     Yone = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXYone.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
     },
     Zed = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
