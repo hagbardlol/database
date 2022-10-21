@@ -41,7 +41,6 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Brand = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigBrand.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Caitlyn = {
@@ -167,7 +166,6 @@ return {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanLulu.lua"
     },
     Lux = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigLux.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Malphite = {
@@ -296,7 +294,6 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     TwistedFate = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigTwistedFate.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Twitch = {
