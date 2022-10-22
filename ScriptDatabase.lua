@@ -26,7 +26,6 @@ return {
         "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAnnie.lua"
     },
     Ashe = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua",
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",
         "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
     },
