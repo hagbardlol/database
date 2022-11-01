@@ -3,31 +3,28 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     }, 
     Ahri = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Akali = {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAkali.lua"
     },
     Akshan = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Alistar = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinAlistar.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
            },
     Amumu = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",   
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAmumu.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Anivia = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Annie = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuAnnie.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Ashe = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyAshe.lua",
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     AurelionSol = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -36,7 +33,6 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAzir.lua"
     },
     Blitzcrank = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuBlitzcrank.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Brand = {
@@ -46,117 +42,136 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua"
     },
     Cassiopeia = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Chogath = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigCho.lua"
     },
     Corki = { 
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Darius = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDarius.lua"
+    },
+    Diana = { 
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Draven = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDraven.lua"
     },
     DrMundo = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinDrMundo.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Elise = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinElise.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Evelynn = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinEvelynn.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Ezreal = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Fiora = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Fizz = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Garen = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigGaren.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Gnar = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Gragas = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Graves = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriGraves.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Gwen = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Hecarim = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Illaoi = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/IllaoiMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Irelia = { 
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Janna = {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanJanna.lua"
     },
+    JarvanIV = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
     Jax = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/JaxMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Jayce = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinJayce.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Jhin = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJhin.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Jinx = {
-        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua",
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigJinx.lua"
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Kaisa = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKaiSa.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kalista = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Karthus = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKarthus.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kassadin = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKassadin.lua",
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Katarina = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriKatarina.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Karma = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kayle = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kayn = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kennen = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Khazix = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kindred = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyKindred.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kled = {
         "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigKled.lua"
     },
     KogMaw = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuKogMaw.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Leblanc = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     LeeSin = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
-    },
-    Lissandra = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuLissandra.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Leona = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyLeona.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Lillia = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Lissandra = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Lucian = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -168,11 +183,10 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Malphite = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuMalphite.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Malzahar = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigMalzahar.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Maokai = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -180,48 +194,56 @@ return {
     MasterYi = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
-    MissFortune = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyMF.lua",   
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+    MissFortune = {  
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Mordekaiser = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigMordekaiser.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Morgana = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Nami = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNami.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Nasus = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Nautilus = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Neeko = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuNeeko.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Nilah = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Nocturne = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
+    Nunu = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Olaf = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Orianna = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinOrianna.lua"  
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"  
     },
     Poppy = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinPoppy.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Pyke = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Qiyana = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriQiyana.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Quinn = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/QuinnMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Rakan = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Rammus = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -229,65 +251,80 @@ return {
     Renata = {
         "https://raw.githubusercontent.com/garibanlol/oldscripts/main/GaribanRenata.lua"
     },
+    Renekton = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
     Rengar = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Rumble = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Ryze = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Samira = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
+    Sejuani = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
     Senna = { 
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Seraphine = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigSeraphine.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Sett = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SallyAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Shaco = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Shyvana = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuShyvana.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Sion = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulySion.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Sivir = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Sona = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuSona.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Soraka = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuSoraka.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Swain = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Sylas = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/SylasMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Syndra = {
-        "https://raw.githubusercontent.com/shulepinlol/champions/main/ShulepinSyndra.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     TahmKench = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Taliyah = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Talon = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyTalon.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Teemo = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Thresh = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuThresh.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Tristana = {
-        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Trundle = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Tryndamere = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -296,58 +333,61 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Twitch = {
-        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Udyr = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyUdyr.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Urgot = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Varus = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVarus.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Vayne = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyVayne.lua",
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Veigar = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigVeigar.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Velkoz = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigVelkoz.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Vex = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Vi = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Viktor = {
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua",
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/hqViktor.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Vladimir = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Volibear = {
-        "https://raw.githubusercontent.com/roburAURUM/robur-AuEdition/main/AuVolibear.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Warwick = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Xayah = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
-    Xerath = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyXerath.lua",   
-        "https://raw.githubusercontent.com/samuelchow1997/robur-14AIO/main/14AIO.lua"
+    Xerath = {   
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     XinZhao = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/XinZhaoMechanics.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Yasuo = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriYasuo.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Yone = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Zed = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/CXAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Zeri = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
