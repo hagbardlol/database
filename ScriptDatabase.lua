@@ -6,7 +6,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Akali = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAkali.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Akshan = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
@@ -30,7 +30,7 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Azir = {
-        "https://raw.githubusercontent.com/hagbardlol/nosupport/main/OriAzir.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Blitzcrank = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
@@ -39,25 +39,25 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Caitlyn = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyCaitlyn.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Cassiopeia = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Chogath = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigCho.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Corki = { 
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Darius = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDarius.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Diana = { 
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Draven = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/UnrulyDraven.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     DrMundo = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
@@ -153,7 +153,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kled = {
-        "https://raw.githubusercontent.com/Roburppey/BigSeries/main/BigKled.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     KogMaw = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
