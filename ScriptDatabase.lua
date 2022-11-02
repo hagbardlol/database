@@ -23,6 +23,9 @@ return {
     Annie = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
+    Aphelios = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
     Ashe = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
@@ -30,6 +33,9 @@ return {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
     },
     Azir = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Belveth = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Blitzcrank = {
@@ -60,6 +66,9 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     DrMundo = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
+    Ekko = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Elise = {
