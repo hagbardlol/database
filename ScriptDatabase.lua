@@ -135,7 +135,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Kalista = {
-        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Karthus = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
@@ -357,7 +357,7 @@ return {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Vayne = {
-        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
     Veigar = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
