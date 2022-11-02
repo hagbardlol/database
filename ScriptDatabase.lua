@@ -13,7 +13,7 @@ return {
     },
     Alistar = {
         "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
-           },
+    },
     Amumu = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
