@@ -47,6 +47,9 @@ return {
     Caitlyn = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
+    Camille = {
+        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
+    },
     Cassiopeia = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
