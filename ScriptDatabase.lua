@@ -359,9 +359,6 @@ return {
     Vayne = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
-    Veigar = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
-    },
     Velkoz = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
