@@ -128,6 +128,9 @@ return {
     Jhin = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
+    Jinx = {
+        "https://raw.githubusercontent.com/sigma-aio/release/main/SigmaAIO.lua"
+    },
     Kaisa = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
