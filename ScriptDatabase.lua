@@ -365,9 +365,6 @@ return {
     Vex = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
-    Vi = {
-        "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
-    },
     Viktor = {
         "https://raw.githubusercontent.com/hagbardlol/Public/main/champions.lua"
     },
